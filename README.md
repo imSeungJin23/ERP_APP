@@ -18,7 +18,7 @@ Calendar 이용하여 휴가 신청,
 
 <img src="https://user-images.githubusercontent.com/109931390/206896674-c59f50c3-cd43-446d-9569-24c6f88d9f58.png" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/109931390/206896677-b5199fc5-c0a3-488c-9250-e2c6d0fce688.png" width="200" height="400"/>
-
+- 시연영상 : https://user-images.githubusercontent.com/109931390/206960860-89db9bfe-f3ca-4f4e-ae7e-1ab35b714544.mp4
 
 ### 채용관리
 - 각 사원 정보와 업무관리 시스템
